@@ -5,4 +5,7 @@
     <string name="prompt_password">Password</string>
     <string name="welcome">"Welcome!"</string>
     <string name="register">Register</string>
+    <string name="sign">sign</string>
+    <string name="error">Error login or password</string>
+    <string name="regDone">register done!</string>
 </resources>
